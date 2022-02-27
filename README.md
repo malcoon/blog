@@ -1,5 +1,7 @@
 # Projeto - Blog
 
+### Projetinho para praticar um pouco 😊
+
 [Live Preview](https://malcoon.github.io/blog/)
 
 <div> 
